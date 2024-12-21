@@ -48,7 +48,7 @@
             <!-- 아이디 저장 및 자동 로그인 체크박스 -->
                 <label for="rememberId">
                 	<input type="checkbox" name="rememberId" id="rememberId">아이디 저장
-                </label>
+                </label>   
                 
                 <label for="autologin">
                 	<input type="checkbox" name="autologin" id="autologin">로그인 상태 유지
